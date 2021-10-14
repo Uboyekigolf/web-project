@@ -1,11 +1,10 @@
-
-run django
+วิธีรัน data base
 
 cd django
 
 python3 manage.py runserver
 
-run react 
+วิธีรัน react
 
 cd react
 
