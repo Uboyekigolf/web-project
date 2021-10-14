@@ -6,7 +6,7 @@ python3 manage.py runserver
 
 วิธีรัน react
 
-cd react
+cd react/blogapi
 
 npm install
 
